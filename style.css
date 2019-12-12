@@ -6,3 +6,70 @@
     font-size: 30px;
     margin-left: 80px;
 }
+
+#main {
+    background-color: white;
+   border-left: solid 80px #dddddd;
+    border-right: solid 80px #dddddd;
+    border-top: solid 20px #dddddd;
+    border-bottom: solid 40px #dddddd;
+    min-height: calc(100vh - 70px);
+}
+
+    
+
+
+footer p {
+    background-color:#666666 ;
+    margin: 0px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: "20px"
+}
+span {
+    float: right;
+}
+h1 { 
+    display: inline;
+    background-color: #4aaaa5;
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+    margin-left: 80px;
+   }
+   a {
+       text-decoration: none; 
+       color: gray;
+       padding: 5px;
+
+
+   }
+   #contact {
+       border-left: solid 1px gray;
+       border-right: solid 1px gray;
+   }
+ img {
+     margin:10px;
+     float: left; 
+ }
+ h2 {
+     font-size: 20px; 
+    color:#4aaaa5;
+
+ }
+#hr2{
+    border: solid 1px #4aaaa5;
+    margin: 0px;
+}
+#main p {
+    margin-bottom: 1.5em;
+}
+#text {
+   font-size: 20px ; 
+}
+#contact {
+    margin: 0px;
+}
